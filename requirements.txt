@@ -1,0 +1,10 @@
+numpy
+dvc #data version control
+dvc[gdrive]
+sklearn
+pandas
+pytest #test script
+tox
+flake8 #code formatter
+flask
+gunicorn #to deploy flask app on web server
